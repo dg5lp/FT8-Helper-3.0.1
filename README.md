@@ -2,7 +2,10 @@
 
 Important notes!
 
-Be sure using the original WSJTX. There are some modified clones in circulation using the same name and version as the origianl WSJTX. It will not work!
+This version is a pleiminary test version:
+Known issues:
+    In WSJTX at least one filter must be enabled, e.g. CQ-only or any form the filter list.
+
 
 When downloading the exe file, virus-alarm might occur. This is a false alarm. The FT8-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encrypted. Upload and check the software to virustotal.com. You can trust the software. Be sure using the original WSJTX! There are clones in circulation using the same version-number as the origianl WSJTX. It will not work!
 
