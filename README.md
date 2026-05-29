@@ -8,13 +8,17 @@ WSJT-X 3.0.1 allows automatic QSO logging. Previous versions only logged automat
 Therefore the new Helper does not log itself.
 In the WSJT-X Settings under „Reporting“ the checkbox „Log automatically“ must be selected!
 
+When using the automatic frequency search function (AutoFrq) of the FT8-Helper, all filter functions as well as the CQ/73 checkbox in WSJT-X must be disabled. The Helper considers ony stations listed in the "BandActivity window.
 
 When downloading the exe file, virus-alarm might occur. This is a false alarm. The FT8-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encrypted. Upload and check the software to virustotal.com. You can trust the software. Be sure using the original WSJTX! There are clones in circulation using the same version-number as the origianl WSJTX. It will not work!
+
+new in v3.0.1-3
+    Incorrect handling of the blue checkboxes of WIN-11 has been fixed 
 
 new in v3.0.1-2
 
     Bands can be selected in FT8-Helper. These settings override the band selection in WSJT-X.
-    In WSJT-X, the band buttons must be enabled.
+    In WSJT-X, the band buttons must be enabled. No need of band-list in the Helper`s configuration.
 
 new in v3.0.1-1
 
