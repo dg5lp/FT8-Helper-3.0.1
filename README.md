@@ -2,7 +2,7 @@
 
 Important notes!
 
-This version is the first "final" release:
+This version is the "final" release:
 
 WSJT-X 3.0.1 allows automatic QSO logging. Previous versions only logged automatically for contests.
 Therefore the new Helper does not log itself.
